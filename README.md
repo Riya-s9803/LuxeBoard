@@ -1,1 +1,1 @@
-#  LuxeBoard
+# the LuxeBoard
